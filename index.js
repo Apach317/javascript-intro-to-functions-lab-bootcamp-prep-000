@@ -36,4 +36,4 @@ function logWhisper(string) {
   console.log('hello')
 }
 
-sayHiToGrandma === 'YES INDEED!'
+sayHiToGrandma = 'YES INDEED!'

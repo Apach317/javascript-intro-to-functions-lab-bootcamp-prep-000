@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
 
 
  function sayHiToGrandma(string) {
-  return ("YES INDEED!")
+  return ("YES INDEED!").uppercase
 }
 function whisper(string) {
   return lowercase

@@ -21,7 +21,7 @@ function sayHiToGrandma(string) {
 }
 
 
- function sayHiToGrandma(string.uppercase) {
+ function sayHiToGrandma(string.toUpperCase) {
   return ("YES INDEED!")
 }
 function whisper(string) {

@@ -17,11 +17,11 @@ function shout(string) {
 }
 
 function sayHiToGrandma(string) {
-  return('I can\'t hear you!').lowercase
+  return('I can\'t hear you!')
 }
 
 
- function sayHiToGrandma(string.toUpperCase) {
+ function sayHiToGrandma(string) {
   return ("YES INDEED!")
 }
 function whisper(string) {
